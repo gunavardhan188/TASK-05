@@ -1,5 +1,3 @@
-# TASK-05
-Network packet analyzer
 
 # TASK-05
 NETWORK PACKET ANALYZER PRODIGY_INFOTECH
